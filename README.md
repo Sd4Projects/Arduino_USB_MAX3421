@@ -3,8 +3,11 @@
 Example code/card for USB using MAX3421 with Arduino.
 
 All files released under OHL (Open Hardware License)
+
 Licensed under CERN OHL v.1.2
+
 See CERN OHL v.1.2 for applicable conditions
+
 http://ohwr.org/cernohl
 
 ![alt text](https://github.com/Sd4Projects/Arduino_USB_MAX3421/blob/main/USB_MAX3421_Board.jpg?raw=true "USB Shield Pic")
